@@ -1,0 +1,9 @@
+{
+ "out": "/content/out/ttc",
+ "model": "Qwen/Qwen2.5-1.5B-Instruct",
+ "n": 32,
+ "problems": 300,
+ "temperature": 0.8,
+ "max_tokens": 512,
+ "chunk": 25
+}
